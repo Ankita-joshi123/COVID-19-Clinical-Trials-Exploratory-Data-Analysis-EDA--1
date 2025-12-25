@@ -80,3 +80,26 @@ COVID-19-Clinical-Trials-Exploratory-Data-Analysis-EDA--1/
 pip install pandas numpy matplotlib seaborn
 jupyter notebook
 
+Skills Demonstrated
+
+Clinical Data Understanding
+
+Exploratory Data Analysis (EDA)
+
+Data Cleaning & Preprocessing
+
+Healthcare / Clinical Research Analytics
+
+Data Visualization
+
+Python for Data Analysis
+
+👩‍💻 Author
+
+Ankita Joshi
+
+Pharma & Clinical Research Background
+
+Aspiring Clinical SAS Programmer / Data Analyst
+
+GitHub: Ankita-joshi123
